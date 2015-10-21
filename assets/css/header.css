@@ -9,48 +9,69 @@
   height: 80px;
   width: 95px;
   display: block;
+  float: left;
+}
+/* line 11, ../compass/sass/header.scss */
+#logoimage img {
+  width: 100%;
 }
 
-/* line 12, ../compass/sass/header.scss */
+/* line 16, ../compass/sass/header.scss */
 .img {
   height: 40px;
   width: 40px;
 }
 
-/* line 17, ../compass/sass/header.scss */
+/* line 21, ../compass/sass/header.scss */
 #tabs {
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-/* line 26, ../compass/sass/header.scss */
+/* line 27, ../compass/sass/header.scss */
+#nav-bar {
+  float: right;
+  width: 100%;
+}
+
+/* line 32, ../compass/sass/header.scss */
 .container {
   margin-right: 0;
 }
 
-/* line 30, ../compass/sass/header.scss */
+/* line 36, ../compass/sass/header.scss */
 body {
   max-width: 1080px;
   margin: auto;
 }
 
-/* line 35, ../compass/sass/header.scss */
+/* line 41, ../compass/sass/header.scss */
 .navbar-default {
   background-color: white;
   border-color: black;
+  max-width: 30%;
+  float: right;
 }
 
-/* line 40, ../compass/sass/header.scss */
+/* line 48, ../compass/sass/header.scss */
 #main-logo {
   text-align: center;
 }
 
-/* line 44, ../compass/sass/header.scss */
+/* line 52, ../compass/sass/header.scss */
 #logo {
   margin-right: auto;
   margin-left: auto;
 }
 
-/* line 49, ../compass/sass/header.scss */
+/* line 57, ../compass/sass/header.scss */
 #caps-logo-main {
   width: 50%;
+  padding-top: 10%;
+}
+
+/* line 63, ../compass/sass/header.scss */
+#navbar {
+  margin-right: 0;
 }

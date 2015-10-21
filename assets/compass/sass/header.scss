@@ -7,6 +7,10 @@
 	height: 80px;
 	width: 95px;
 	display: block;
+	float: left;
+	img{
+		width: 100%;
+	}
 }
 
 .img{
@@ -15,12 +19,14 @@
 }
 
 #tabs{
-	list-style: none
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
 
-#navbar{
-	// float: right;
-	// border-color: black;
+#nav-bar{
+	float: right;
+	width: 100%;
 }
 
 .container{
@@ -35,6 +41,8 @@ body{
 .navbar-default{
 	background-color: white;
 	border-color: black;
+	max-width: 30%;
+	float: right;
 }
 
 #main-logo{
@@ -48,6 +56,11 @@ body{
 
 #caps-logo-main{
 	width: 50%;
+	padding-top: 10%;
 
+}
+
+#navbar{
+	margin-right:0;
 }
 
