@@ -1,0 +1,56 @@
+/* line 1, ../compass/sass/header.scss */
+#right-tabs {
+  float: right;
+  width: 50px;
+}
+
+/* line 6, ../compass/sass/header.scss */
+#logoimage {
+  height: 80px;
+  width: 95px;
+  display: block;
+}
+
+/* line 12, ../compass/sass/header.scss */
+.img {
+  height: 40px;
+  width: 40px;
+}
+
+/* line 17, ../compass/sass/header.scss */
+#tabs {
+  list-style: none;
+}
+
+/* line 26, ../compass/sass/header.scss */
+.container {
+  margin-right: 0;
+}
+
+/* line 30, ../compass/sass/header.scss */
+body {
+  max-width: 1080px;
+  margin: auto;
+}
+
+/* line 35, ../compass/sass/header.scss */
+.navbar-default {
+  background-color: white;
+  border-color: black;
+}
+
+/* line 40, ../compass/sass/header.scss */
+#main-logo {
+  text-align: center;
+}
+
+/* line 44, ../compass/sass/header.scss */
+#logo {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* line 49, ../compass/sass/header.scss */
+#caps-logo-main {
+  width: 50%;
+}
