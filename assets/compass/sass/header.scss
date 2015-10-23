@@ -1,6 +1,6 @@
 #right-tabs {
 	float: right;	
-	width: 50px;
+	margin: -20% 2%;
 }
 
 #logoimage{
@@ -10,6 +10,7 @@
 	float: left;
 	img{
 		width: 100%;
+		margin: 25px;
 	}
 }
 
@@ -34,7 +35,7 @@
 }
 
 body{
-	max-width: 1080px;
+	max-width: 100%;
 	margin: auto;
 }
 
@@ -43,6 +44,7 @@ body{
 	border-color: black;
 	max-width: 30%;
 	float: right;
+	margin: 25px;
 }
 
 #main-logo{
@@ -64,3 +66,7 @@ body{
 	margin-right:0;
 }
 
+.tab-images{
+	margin-top: 10px;
+	border-radius: 3px;
+}
