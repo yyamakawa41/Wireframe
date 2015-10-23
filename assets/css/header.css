@@ -81,5 +81,10 @@ body {
 /* line 69, ../compass/sass/header.scss */
 .tab-images {
   margin-top: 10px;
-  border-radius: 3px;
+  border: 2px solid black;
+}
+
+/* line 74, ../compass/sass/header.scss */
+#header-body {
+  background-color: skyblue;
 }
