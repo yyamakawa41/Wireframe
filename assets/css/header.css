@@ -1,7 +1,7 @@
 /* line 1, ../compass/sass/header.scss */
 #right-tabs {
   float: right;
-  margin: -20% 2%;
+  margin: -32% 2%;
 }
 
 /* line 6, ../compass/sass/header.scss */
@@ -87,4 +87,17 @@ body {
 /* line 74, ../compass/sass/header.scss */
 #header-body {
   background-color: skyblue;
+}
+
+/* line 78, ../compass/sass/header.scss */
+p {
+  height: 200px;
+  background-color: red;
+  width: 100%;
+  display: block;
+}
+
+/* line 85, ../compass/sass/header.scss */
+#caps-logo-main {
+  padding-bottom: 10%;
 }
